@@ -10,7 +10,7 @@
 This client application using an GraphQL Rick and Morty characters API:
 - [Rick and Morty GraphQL API](https://rickandmortyapi.com/graphql)
 
-## Using Techs
+## Used Techs
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
